@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Omar Ouhra</h1>
+<h3 align="center">A passionate frontend developer from Morocco 🇲🇦</h3>
 
-<!--
-**omarouhra/omarouhra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarouhra&label=Profile%20views&color=0e75b6&style=flat" alt="omarouhra" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently working on a personal project using **React Js**
+
+- 👨‍💻 All of my projects are available at [www.omarcode.com](www.omarcode.com)
+
+- 💬 Ask me about **React Js, Next Js, Tailwind Css**
+
+- 📫 How to reach me **omarouhradev@gmail.com**
+
+- 📄 Know about my experiences [www.omarcode.com](www.omarcode.com)
+
+- ⚡ Fun fact **I enjoy creating music and beats**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/omar.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omar.code" height="30" width="40" /></a>
+</p>
