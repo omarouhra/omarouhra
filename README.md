@@ -15,7 +15,6 @@
 
 - 📄 Know about my experiences [www.omarcode.com](www.omarcode.com)(soon)
 
-- ⚡ Fun fact **I enjoy creating music and beats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
