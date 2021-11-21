@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on a personal project using **React Js**
 
-- 👨‍💻 All of my projects are available at [www.omarcode.com](www.omarcode.me)(soon)
+- 👨‍💻 All of my projects are available at [www.omarcode.com](www.omarcode.me)
 
 - 💬 Ask me about **React Js, Next Js, Tailwind Css**
 
