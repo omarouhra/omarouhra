@@ -7,13 +7,12 @@
 
 - 🌱 I’m currently working on a personal project using **React Js**
 
-- 👨‍💻 All of my projects are available at [www.omarcode.com](www.omarcode.com)(soon)
+- 👨‍💻 All of my projects are available at [www.omarcode.com](www.omarcode.me)(soon)
 
 - 💬 Ask me about **React Js, Next Js, Tailwind Css**
 
-- 📫 How to reach me **omarouhradev@gmail.com**
+- 📫 How to reach me **hi@omarcode.me**
 
-- 📄 Know about my experiences [www.omarcode.com](www.omarcode.com)(soon)
 
 
 <h3 align="left">Connect with me:</h3>
